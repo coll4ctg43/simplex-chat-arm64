@@ -1,8 +1,10 @@
 # simplex-chat-arm64
 
-I can't fork the project so for now I only post the changes to the Dockerfile and install.sh file and the binary created.
+Binary of the project https://github.com/simplex-chat/simplex-chat compiled with modified Dockerfile.
+I can't fork the project so for now I only post the changes to the Dockerfile and the binary created.
+Dockerfile edited to compile arm64 from other arch.
 
-Dockerfile edited to compile arm64 from other arch
+I fixed install.sh of project too.
 
 **simplex-chat.xz**
 
